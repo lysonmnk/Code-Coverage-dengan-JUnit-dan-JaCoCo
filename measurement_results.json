@@ -1,0 +1,164 @@
+{
+  "Calc_Stage1_AddOnly": {
+    "instruction_pct": 23.33,
+    "branch_pct": 0.0,
+    "line_pct": 22.22,
+    "method_pct": 40.0,
+    "lines": "2/9",
+    "instructions": "7/30",
+    "branches": "0/4",
+    "methods": "2/5"
+  },
+  "Calc_Stage2_AddSubtract": {
+    "instruction_pct": 36.67,
+    "branch_pct": 0.0,
+    "line_pct": 33.33,
+    "method_pct": 60.0,
+    "lines": "3/9",
+    "instructions": "11/30",
+    "branches": "0/4",
+    "methods": "3/5"
+  },
+  "Calc_Stage3_Full": {
+    "instruction_pct": 100.0,
+    "branch_pct": 100.0,
+    "line_pct": 100.0,
+    "method_pct": 100.0,
+    "lines": "9/9",
+    "instructions": "30/30",
+    "branches": "4/4",
+    "methods": "5/5"
+  },
+  "Loan_Isolated_TC1": {
+    "instruction_pct": 8.7,
+    "branch_pct": 3.85,
+    "line_pct": 11.11,
+    "method_pct": 40.0,
+    "lines": "3/27",
+    "instructions": "8/92",
+    "branches": "1/26",
+    "methods": "2/5"
+  },
+  "Loan_Isolated_TC2": {
+    "instruction_pct": 20.65,
+    "branch_pct": 11.54,
+    "line_pct": 14.81,
+    "method_pct": 40.0,
+    "lines": "4/27",
+    "instructions": "19/92",
+    "branches": "3/26",
+    "methods": "2/5"
+  },
+  "Loan_Isolated_TC3": {
+    "instruction_pct": 21.74,
+    "branch_pct": 15.38,
+    "line_pct": 18.52,
+    "method_pct": 40.0,
+    "lines": "5/27",
+    "instructions": "20/92",
+    "branches": "4/26",
+    "methods": "2/5"
+  },
+  "Loan_Isolated_TC4": {
+    "instruction_pct": 15.22,
+    "branch_pct": 11.54,
+    "line_pct": 18.52,
+    "method_pct": 40.0,
+    "lines": "5/27",
+    "instructions": "14/92",
+    "branches": "3/26",
+    "methods": "2/5"
+  },
+  "Loan_Isolated_TC5": {
+    "instruction_pct": 8.7,
+    "branch_pct": 3.85,
+    "line_pct": 11.11,
+    "method_pct": 40.0,
+    "lines": "3/27",
+    "instructions": "8/92",
+    "branches": "1/26",
+    "methods": "2/5"
+  },
+  "Loan_Cumulative_TC1": {
+    "instruction_pct": 8.7,
+    "branch_pct": 3.85,
+    "line_pct": 11.11,
+    "method_pct": 40.0,
+    "lines": "3/27",
+    "instructions": "8/92",
+    "branches": "1/26",
+    "methods": "2/5"
+  },
+  "Loan_Cumulative_TC1_TC2": {
+    "instruction_pct": 22.83,
+    "branch_pct": 15.38,
+    "line_pct": 18.52,
+    "method_pct": 40.0,
+    "lines": "5/27",
+    "instructions": "21/92",
+    "branches": "4/26",
+    "methods": "2/5"
+  },
+  "Loan_Cumulative_TC1_TC2_TC3": {
+    "instruction_pct": 34.78,
+    "branch_pct": 26.92,
+    "line_pct": 25.93,
+    "method_pct": 40.0,
+    "lines": "7/27",
+    "instructions": "32/92",
+    "branches": "7/26",
+    "methods": "2/5"
+  },
+  "Loan_Cumulative_TC1_TC2_TC3_TC4": {
+    "instruction_pct": 36.96,
+    "branch_pct": 30.77,
+    "line_pct": 29.63,
+    "method_pct": 40.0,
+    "lines": "8/27",
+    "instructions": "34/92",
+    "branches": "8/26",
+    "methods": "2/5"
+  },
+  "Loan_Cumulative_TC1_TC2_TC3_TC4_TC5": {
+    "instruction_pct": 42.39,
+    "branch_pct": 34.62,
+    "line_pct": 37.04,
+    "method_pct": 60.0,
+    "lines": "10/27",
+    "instructions": "39/92",
+    "branches": "9/26",
+    "methods": "3/5"
+  },
+  "Loan_Full_100pct": {
+    "instruction_pct": 100.0,
+    "branch_pct": 100.0,
+    "line_pct": 100.0,
+    "method_pct": 100.0,
+    "lines": "27/27",
+    "instructions": "92/92",
+    "branches": "26/26",
+    "methods": "5/5"
+  },
+  "Total_Project_All": {
+    "SimpleLoanApproval": {
+      "instruction_pct": 100.0,
+      "branch_pct": 100.0,
+      "line_pct": 100.0,
+      "method_pct": 100.0,
+      "lines": "27/27",
+      "instructions": "92/92",
+      "branches": "26/26",
+      "methods": "5/5"
+    },
+    "SimpleCalculator": {
+      "instruction_pct": 100.0,
+      "branch_pct": 100.0,
+      "line_pct": 100.0,
+      "method_pct": 100.0,
+      "lines": "9/9",
+      "instructions": "30/30",
+      "branches": "4/4",
+      "methods": "5/5"
+    }
+  }
+}
